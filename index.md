@@ -1,22 +1,22 @@
-# Investigating Organizational Factors Associated With GDPR Noncompliance Using Privacy Policies: A Machine Learning Approach
+# ChatGPT: Legal Expert and Requirements Engineer? - A Pilot Experiment
 
 ## Abstract
-The General Data Protection Regulation (GDPR) came into effect in May 2018 to ensure and safeguard data subjects' rights. This enactment profoundly shaped, among other things,  data processing organizations' privacy policies to comply with the GDPR's transparency requirements—for compliance with the GDPR is compulsory. Nevertheless, despite the potential goodwill to change, complying with the GDPR can be challenging for some organizations, e.g., small and medium-sized enterprises, due to, for example, a lack of resources. This study explores what factors may correlate with GDPR-compliance practices in organizations by analyzing the corresponding privacy policies. The contribution of this study is twofold. First, we have devised a classification model using machine learning (ML) and natural language processing (NLP) techniques to assess the GDPR-compliance practices promised in privacy policies regarding the GDPR core privacy policy requirement of Purpose. Using this model, we have collected a data set of 8614 organizations active in the European Union (EU) containing organizational information and GDPR-compliance promises derived from organizations' privacy policies, as made publicly available. Our second contribution is an analysis of the resulting classification to identify organizational factors related to the disclosure of the GDPR core privacy policy requirement of Purpose in organizations' privacy policies.
+Large Language Models (LLMs) have significantly impacted various industries, offering enhanced processes and decision-making capabilities. Among these models, ChatGPT, an intelligent conversational agent, has found applications in multiple fields, including software development. This study explores how ChatGPT can benefit requirements engineering (RE), specifically in facilitating compliance with the General Data Protection Regulation (GDPR) principle of data protection by design and default. In particular, our research objective is to evaluate ChatGPT's ability to support professionals in assessing GDPR compliance within user stories, thus enhancing requirement quality. We obtain insights into ChatGPT's strengths and limitations in this context through an experiment and survey pilot study with experts. The experiment's outcome suggests that respondents generally agreed with ChatGPT's evaluation of user stories on GDPR compliance, agreeing with almost 73% of ChatGPT's evaluations. Furthermore, the survey results showed reservations regarding recommending ChatGPT to peers or colleagues, suggesting a cautious stance within the professional community. This study provides insights into ChatGPT's utility as an assistive tool for GDPR compliance in RE, presenting a starting point to address GDPR challenges in RE using LLMs.
 
 
 
 ## Authors
+<!---
 **Abdel-Jaouad Aberkane**, **Seppe vanden Broucke**, and **Geert Poels**<br/>
 Faculty of Economics and Business Administration<br/>
 Department of Business Informatics and Operations Management (EB24)<br/>
 UGent Business Informatics Research Group
+-->
 
-## Full Conference Article
-[https://ieeexplore.ieee.org/document/10063341](https://ieeexplore.ieee.org/document/10063341)
-
-## Results
-Full print of the analysis results using Statsmodel's logistic regression as outlined in the paper mentioned above:
-- **Purpose**: [full output](https://raw.githubusercontent.com/Aberkane/Privacy-Policies-GDPR-compliance/main/results/lr_purpose)
+## Files
+- **Full GPT prompt example**: [pdf](https://github.com/Aberkane/chatgpt-legal_expert_and_requirements_engineer/blob/d2b1aca19fc1acc2ef13c6c39765c5c5e5a2dbb9/full_gpt_prompt_example.pdf)
+- - **Survey statements**: [pdf](https://github.com/Aberkane/chatgpt-legal_expert_and_requirements_engineer/blob/d2b1aca19fc1acc2ef13c6c39765c5c5e5a2dbb9/survey_statements.pdf)
+  - - **User stories considered in the experiment**: [pdf](https://github.com/Aberkane/chatgpt-legal_expert_and_requirements_engineer/blob/d2b1aca19fc1acc2ef13c6c39765c5c5e5a2dbb9/user_stories_considered_in_the_experiment.pdf)
 
 
 <!-- ## Welcome to GitHub Pages
