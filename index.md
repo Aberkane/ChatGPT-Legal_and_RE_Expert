@@ -6,6 +6,7 @@ Large Language Models (LLMs) have significantly impacted various industries, off
 
 
 ## Authors
+...
 <!---
 **Abdel-Jaouad Aberkane**, **Seppe vanden Broucke**, and **Geert Poels**<br/>
 Faculty of Economics and Business Administration<br/>
@@ -15,8 +16,8 @@ UGent Business Informatics Research Group
 
 ## Files
 - **Full GPT prompt example**: [pdf](https://github.com/Aberkane/chatgpt-legal_expert_and_requirements_engineer/blob/d2b1aca19fc1acc2ef13c6c39765c5c5e5a2dbb9/full_gpt_prompt_example.pdf)
-- - **Survey statements**: [pdf](https://github.com/Aberkane/chatgpt-legal_expert_and_requirements_engineer/blob/d2b1aca19fc1acc2ef13c6c39765c5c5e5a2dbb9/survey_statements.pdf)
-  - - **User stories considered in the experiment**: [pdf](https://github.com/Aberkane/chatgpt-legal_expert_and_requirements_engineer/blob/d2b1aca19fc1acc2ef13c6c39765c5c5e5a2dbb9/user_stories_considered_in_the_experiment.pdf)
+- **Survey statements**: [pdf](https://github.com/Aberkane/chatgpt-legal_expert_and_requirements_engineer/blob/d2b1aca19fc1acc2ef13c6c39765c5c5e5a2dbb9/survey_statements.pdf)
+- **User stories considered in the experiment**: [pdf](https://github.com/Aberkane/chatgpt-legal_expert_and_requirements_engineer/blob/d2b1aca19fc1acc2ef13c6c39765c5c5e5a2dbb9/user_stories_considered_in_the_experiment.pdf)
 
 
 <!-- ## Welcome to GitHub Pages
