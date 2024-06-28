@@ -6,13 +6,11 @@ Large Language Models (LLMs) have significantly impacted various industries, off
 
 
 ## Authors
-...
-<!---
-**Abdel-Jaouad Aberkane**, **Seppe vanden Broucke**, and **Geert Poels**<br/>
+**Abdel-Jaouad Aberkane**, **Seppe vanden Broucke**, **Geert Poels** and **Georgios Georgiadis**<br/>
 Faculty of Economics and Business Administration<br/>
 Department of Business Informatics and Operations Management (EB24)<br/>
 UGent Business Informatics Research Group
--->
+
 
 ## Files
 - **Full GPT prompt example**: [pdf](https://github.com/Aberkane/chatgpt-legal_expert_and_requirements_engineer/blob/d2b1aca19fc1acc2ef13c6c39765c5c5e5a2dbb9/full_gpt_prompt_example.pdf)
