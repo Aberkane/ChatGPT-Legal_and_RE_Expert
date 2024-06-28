@@ -9,7 +9,7 @@ Large Language Models (LLMs) have significantly impacted various industries, off
 **Abdel-Jaouad Aberkane**, **Seppe vanden Broucke**, **Geert Poels** and **Georgios Georgiadis**<br/>
 Faculty of Economics and Business Administration<br/>
 Department of Business Informatics and Operations Management (EB24)<br/>
-UGent Business Informatics Research Group
+[UGent Business Informatics Research Group](https://ugent-businessinformatics.github.io/)
 
 
 ## Files
